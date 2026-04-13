@@ -4,28 +4,28 @@
 
 It does not define force.
 It does not describe attraction.
-It does not justify inevitability, depth, or convergence.
+It does not justify destiny, convergence, or permanence.
 
-This repository preserves only the **conditions under which return, cancellation, or separation no longer remain structurally available**.
+It preserves only the **conditions under which return pathways no longer remain structurally available**.
 
 ---
 
 ## One-line summary
 
-> **RET-gravity preserves pull contours as return-impossibility conditions, never as force, destiny, or value.**
+> **RET-gravity preserves pull contours as structural non-return conditions, never as force, fate, or value.**
 
 ---
 
-## Structural Position
+## Position within Parallel Conditions
 
-RET-gravity is a **parallel condition layer**.
+RET-gravity is a **parallel and non-authoritative layer**.
 
-It is adjacent to:
+It operates alongside:
 - RET-density
 - RET-future
 - RET-echo
 
-It does not extend:
+It does not modify:
 - RET-core
 - RET-anchor
 - RET-protocols
@@ -35,70 +35,85 @@ No authority inheritance is permitted.
 
 ---
 
-## Core Interpretation
+## What Gravity Refers To
 
-Gravity is treated only as:
+Gravity here does **not** mean:
 
-> a contour in which return pathways remain structurally unavailable.
+- attraction
+- persuasion
+- emotional binding
+- convergence truth
+- value hierarchy
 
-This repository records:
-- pull contours
-- return impossibility
-- cancellation failure
-- contour persistence
-- irreversible divergence traces
+Gravity refers to:
 
-Nothing here implies necessity or emergence.
+> a condition in which return, cancellation, or separation
+> no longer restore prior structural availability.
 
----
-
-## Explicit Non-Goals
-
-RET-gravity does **not**:
-
-- define force
-- narrate attraction
-- imply destiny
-- justify permanence
-- define value hierarchy
-- encode lock-in semantics
-- induce irreversible states
-
-Pull language must not become mythology.
+It is not declared.
+It is not induced.
+It is recognized only after return symmetry has thinned.
 
 ---
 
-## Invariant Stance
+## Core Properties
 
-If contour language implies fate,
-remove the contour.
+Gravity is:
 
-If irreversibility begins to imply value,
-delete the contour.
+- observational
+- non-operable
+- non-commandable
+- non-mythological
+- deletion-preferred
 
-Deletion is preferred over gravity mythology.
+Attempts to:
+- narrate inevitability
+- assign destiny
+- reward permanence
+- treat non-return as truth
+
+replace contour with mythology.
 
 ---
 
-## Repository Structure
+## Failure Patterns
 
-```text
-RET-gravity/
-├─ README.md
-├─ contours/
-├─ states/
-├─ audit/
-├─ appendix/
-└─ datasets/
-```
+The following distort gravity:
+
+- attraction semantics
+- destiny laundering
+- permanence mythology
+- lock-in projection
+- cancellation residue overwrite
+
+All such actions replace contour with fate narrative.
+
+---
+
+## Publication Boundary
+
+Public-safe:
+- README
+- INVARIANTS.md
+- states/gravity-contours.yaml
+- appendix/misuse-patterns.md
+- .zenodo.json
+
+Restricted:
+- transient non-return drafts
+- discarded cancellation residues
+- deleted return snapshots
+
+If publication begins to imply destiny,
+reduce publication scope.
 
 ---
 
 ## Status
 
-Intentionally sparse.
+RET-gravity is intentionally minimal.
 
-Pull contours may coexist,
+Return loss may remain,
 thin out,
 or disappear without residue.
 
