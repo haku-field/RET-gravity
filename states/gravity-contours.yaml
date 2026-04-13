@@ -1,0 +1,14 @@
+contours:
+  - id: structural_non_return
+    class: observational
+    persistence: provisional
+    promotable: false
+    anti_mapping:
+      - destiny
+      - attraction
+      - lockin
+
+  - id: cancellation_residue
+    class: removable
+    persistence: discard-first
+    promotable: false
