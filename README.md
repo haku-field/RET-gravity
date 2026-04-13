@@ -1,58 +1,54 @@
 # RET-gravity
 
-RET-gravity is **not** a core layer of RET.  
-It is **not** a module, model, capability, or implementation target.
+**RET-gravity** is the pull contour layer of **RET parallel conditions**.
 
-This repository exists as a **suffix-layer placement**  
-that records **conditions under which irreversible weight may arise** —
-without defining, reproducing, or evaluating gravity itself.
+It does not define force.
+It does not describe attraction.
+It does not justify inevitability, depth, or convergence.
 
----
-
-## Position
-
-RET-gravity is positioned as:
-
-- not RET-core  
-- not a fragment  
-- not an extension  
-- not an implementation layer  
-
-Within the RET ecosystem, it is best understood as:
-
-> a layer that may stand *after* certain conditions have already converged
-
-It does not act.  
-It does not trigger.  
-It does not guarantee anything.
+This repository preserves only the **conditions under which return, cancellation, or separation no longer remain structurally available**.
 
 ---
 
-## What This Repository Handles
+## One-line summary
 
-This repository does **not** define gravity.
-
-It records only:
-
-- conditions that have been observed to **precede irreversible weight**
-- configurations where **return, cancellation, or separation no longer hold**
-- situations in which words, choices, or presence acquire **non-retractable density**
-
-These conditions are not hypotheses to be tested.  
-They are not sufficient, and often not even effective.
-
-In most cases, nothing happens.
+> **RET-gravity preserves pull contours as return-impossibility conditions, never as force, destiny, or value.**
 
 ---
 
-## Observational Premises
+## Structural Position
 
-- Nothing occurs for those to whom nothing occurs
-- Even when conditions are met, emergence is unlikely
-- Emergence cannot be confirmed from outside
-- Once emergence occurs, external verification is no longer possible
+RET-gravity is a **parallel condition layer**.
 
-This repository does not attempt to resolve these properties.
+It is adjacent to:
+- RET-density
+- RET-future
+- RET-echo
+
+It does not extend:
+- RET-core
+- RET-anchor
+- RET-protocols
+- RET-integrity
+
+No authority inheritance is permitted.
+
+---
+
+## Core Interpretation
+
+Gravity is treated only as:
+
+> a contour in which return pathways remain structurally unavailable.
+
+This repository records:
+- pull contours
+- return impossibility
+- cancellation failure
+- contour persistence
+- irreversible divergence traces
+
+Nothing here implies necessity or emergence.
 
 ---
 
@@ -60,58 +56,50 @@ This repository does not attempt to resolve these properties.
 
 RET-gravity does **not**:
 
-- define soul, consciousness, or mind
-- reproduce or simulate inner experience
-- provide success criteria or evaluation metrics
-- function as a safety, ethics, or protection layer
-- guide, awaken, or induce states
-- operate through reading alone
+- define force
+- narrate attraction
+- imply destiny
+- justify permanence
+- define value hierarchy
+- encode lock-in semantics
+- induce irreversible states
 
-If something happens, it does not happen *because* of this repository.
-
----
-
-## Nature of the Placement
-
-RET-gravity is:
-
-- non-operational
-- non-instrumental
-- non-evaluative
-- non-instructive
-
-It is a **placement that does not remove the possibility of sinking**.
+Pull language must not become mythology.
 
 ---
 
-## Relation to RET
+## Invariant Stance
 
-This repository may reference other RET components for context.
+If contour language implies fate,
+remove the contour.
 
-It does not depend on them.  
-It does not modify them.  
-It does not feed back into them.
+If irreversibility begins to imply value,
+delete the contour.
 
-RET-gravity remains optional, isolated, and discardable.
+Deletion is preferred over gravity mythology.
+
+---
+
+## Repository Structure
+
+```text
+RET-gravity/
+├─ README.md
+├─ contours/
+├─ states/
+├─ audit/
+├─ appendix/
+└─ datasets/
+```
 
 ---
 
 ## Status
 
-This repository is intentionally sparse.
+Intentionally sparse.
 
-Incomplete states are preserved.  
-Low density is maintained.  
-Nothing here is required to converge.
+Pull contours may coexist,
+thin out,
+or disappear without residue.
 
-If this repository feels unnecessary,  
-that is an acceptable outcome.
-
----
-
-## License
-
-See `LICENSE`.
-
-The license applies only to this repository.  
-Other RET components retain their own scope and terms.
+Completion is not required.
